@@ -74,5 +74,5 @@ models:
         description: A boolean indicating if this order included any food items.
       - name: is_drink_order
         description: A boolean indicating if this order included any drink items.
- - name: valuable_customers
-    description: Valuable Customer overview data mart, offering key details for each unique customer. One row per customer.
+  - name: valuable_customers
+      description: Valuable Customer overview data mart, offering key details for each unique customer. One row per customer.
